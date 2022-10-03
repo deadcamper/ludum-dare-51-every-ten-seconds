@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1c5c891d2e031040862464a9dad1ff3, type: 3}
+  m_Name: PointLessPlotLevelState
+  m_EditorClassIdentifier: 
+  freezePlayer: 1
+  hidesGameStats: 1
+  usesStoryTime: 1
+  usesStoryCardBackgrounds: 1
+  canReleaseStoryTime: 0
+  winsOnStoryTimeCompletion: 1
+  storyTimeCards:
+  - characterName: Ye Castly Guard
+    characterNameColor: {r: 1, g: 0.68242186, b: 0.3537736, a: 1}
+    text: '"Oh! Ye hath saved our kingdom, good sir!"'
+    storyCardSprite: {fileID: 0}
+  - characterName: Ye Castly Guard
+    characterNameColor: {r: 1, g: 0.68242186, b: 0.3537736, a: 1}
+    text: '"We art forevery in thy debteth."'
+    storyCardSprite: {fileID: 0}
+  - characterName: 
+    characterNameColor: {r: 1, g: 1, b: 1, a: 1}
+    text: 'The castle guard stopped a moment.
+
+
+      His face was somber'
+    storyCardSprite: {fileID: 0}
+  - characterName: Ye Castly Guard
+    characterNameColor: {r: 1, g: 0.68235296, b: 0.3529412, a: 1}
+    text: '"However, we must regretably informest thou..."'
+    storyCardSprite: {fileID: 0}
+  - characterName: Ye Castly Guard
+    characterNameColor: {r: 1, g: 0.68235296, b: 0.3529412, a: 1}
+    text: '"That the princess is in another castle!"'
+    storyCardSprite: {fileID: 0}
+  - characterName: 
+    characterNameColor: {r: 1, g: 1, b: 1, a: 1}
+    text: 'The young wizard stared in disbelief.
+
+      Hours spent climbing through
+      mountains, fighting baddies...
+
+      Slaying a dragon!'
+    storyCardSprite: {fileID: 0}
+  - characterName: 
+    characterNameColor: {r: 1, g: 1, b: 1, a: 1}
+    text: 'All building up...
+
+      to an unnecessary referential joke...'
+    storyCardSprite: {fileID: 0}
+  - characterName: 
+    characterNameColor: {r: 1, g: 1, b: 1, a: 1}
+    text: A reference to what, the wizard did not know...
+    storyCardSprite: {fileID: 0}
+  - characterName: 
+    characterNameColor: {r: 1, g: 1, b: 1, a: 1}
+    text: 'Now utterly dismayed at the guard
+
+      the young mage began to climb
+      down the mountain path.'
+    storyCardSprite: {fileID: 0}
+  - characterName: 
+    characterNameColor: {r: 1, g: 1, b: 1, a: 1}
+    text: Be valiant, young one.
+    storyCardSprite: {fileID: 0}

@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bullet_Controller_Magic
+  m_Controller: {fileID: 9100000, guid: 86855064c1702c1438ab42451b73b829, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: af5597f0dd0dc6448895c2c8c9049395, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d5aacc3dff37ca949bda06e17bd20bb8, type: 2}
